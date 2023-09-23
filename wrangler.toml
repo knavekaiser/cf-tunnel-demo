@@ -1,7 +1,7 @@
 name = "cf-tunnel-demo"
 main = "src/index.js"
 compatibility_date = "2023-09-04"
-
+account_id = "d405a31a6a95efd248be99e323eaff9c"
 node_compat = true
 
 # Variable bindings. These are arbitrary, plaintext strings (similar to environment variables)
